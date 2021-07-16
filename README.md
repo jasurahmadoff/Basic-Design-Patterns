@@ -1,2 +1,2 @@
 # Basic-Design-Patterns
-Singleton and Builder Patterns have been implemented.
+Singleton and Builder Patterns have been implemented
